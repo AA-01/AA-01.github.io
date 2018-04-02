@@ -64,32 +64,36 @@ footer {
 #H {
     background-color: #fff;
 	width: 91.623424759%;
-	height: 350px;
-	margin: 56.5px;
+	height: auto;
+	margin: 4.18828762046%;
 	margin-top: 0;
 	text-align: center;
 }
 #H h1 {
 	text-align: center;
 	position: relative;
-	top: 10%;
-	font-size: all;
+	padding-top: 40px;
+	font-size: 6vh;
 }
 #H p {
-	margin: 70px 30px;
-	font-size: 2vw;
+	padding: 70px 40px;
+	padding-top: 30px;
+	font-size: 4vh;
 }
 #Pic {
-	margin: 56.5px;
+	margin: 4.18828762046%;
 	display: block;
 	background-color: #fff;
 	width: 91.623424759%;
 	height: 500px;
 }
 #Pic img {
-	height: 90%;
-	float: right;
-	margin: 2.02265372168%;
+	transform: translate(-50%,-50%);
+	position: relative;
+	top: 50%;
+	left: 50%;
+	height: 89.9968%;
+	width: auto;
 }
 #Pic div {
 	position: absolute;
