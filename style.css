@@ -63,26 +63,40 @@ footer {
 }
 #H {
     background-color: #fff;
-	width: 71.5716019418%;
+	width: 91.623424759%;
 	height: 350px;
-	float: left;
+	margin: 56.5px;
+	margin-top: 0;
+	text-align: center;
 }
 #H h1 {
 	text-align: center;
 	position: relative;
-	top: 15px;
-	font-size: 1.9em;
+	top: 10%;
+	font-size: all;
 }
 #H p {
-	margin: 50px 30px;
-	margin-bottom: 0px;
+	margin: 70px 30px;
 	font-size: 2vw;
 }
 #Pic {
-	float: right;
+	margin: 56.5px;
+	display: block;
 	background-color: #fff;
-	width: 23.8572006473%;
-	height: 350px;
+	width: 91.623424759%;
+	height: 500px;
+}
+#Pic img {
+	height: 90%;
+	float: right;
+	margin: 2.02265372168%;
+}
+#Pic div {
+	position: absolute;
+	top:176.773413897%;
+	left: 33.0941438102%;
+	transform: translate(-50%,-50%);
+	font-size: 3vw;
 }
 #P {
 	margin: 4.18828762%;
@@ -132,7 +146,7 @@ text-align: center;
 #M p {
 	position: absolute;
 	transform: translate(-50%,-50%);
-	font-size: 29px;
+	font-size: 2.149740548554485vw;
 	left: 50%;
 	top: 50px;
 }
@@ -179,5 +193,5 @@ table {
 	transform: translate(-50%,-50%);
 	left: 50%;
 	top: 15%;
-	font-size: 23px;
+	font-size: 1.704966641957005vw;
 }
