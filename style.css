@@ -82,25 +82,24 @@ footer {
 }
 #Pic {
 	margin: 4.18828762046%;
+	position: relative;
 	display: block;
 	background-color: #fff;
 	width: 91.623424759%;
-	height: 500px;
+	height: auto;
+}
+#Pic h1 {
+	white-space: nowrap;
+	position: absolute;
+	top: 11%;
+	left: 57%;
+	font-size: 6vw;
 }
 #Pic img {
-	transform: translate(-50%,-50%);
 	position: relative;
-	top: 50%;
-	left: 50%;
-	height: 89.9968%;
-	width: auto;
-}
-#Pic div {
-	position: absolute;
-	top:176.773413897%;
-	left: 33.0941438102%;
-	transform: translate(-50%,-50%);
-	font-size: 3vw;
+	margin: 0.80906148867%;
+	width: 35%;
+	height: auto;
 }
 #P {
 	margin: 4.18828762%;
