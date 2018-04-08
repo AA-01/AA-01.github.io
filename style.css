@@ -32,6 +32,7 @@ left: 50%;
 }
 #B ul li a {
 	display: inline-block;
+  	font-size: calc(0.15vw + 16px);
 }
 #B ul li:hover {
 	background-color: white;
