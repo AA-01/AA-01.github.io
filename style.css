@@ -56,6 +56,9 @@ footer {
 	width:91.623424759%;
 	height: auto;
 	margin: 4.18828762%;
+  	text-align: center;
+  	display: table-cell;
+  	vertical-align: middle;
 }
 #Img img {
 	width: 97.572815534%;
