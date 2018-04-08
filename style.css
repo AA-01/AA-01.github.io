@@ -58,6 +58,9 @@ footer {
 	margin: 4.18828762%;
 }
 #Img img {
+    transform: translate(-50%,-50%);
+  	left:50%;
+  	top:50%;
 	width: 97.572815534%;
 	margin: 1.111934766%;
 }
@@ -96,9 +99,6 @@ footer {
 	font-size: 6vw;
 }
 #Pic img {
-  	transform: translate(-50%,-50%);
-  	left:50%;
-  	top:50%;
 	position: relative;
 	margin: 0.80906148867%;
 	width: 35%;
