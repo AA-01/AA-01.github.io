@@ -53,20 +53,21 @@ footer {
 }
 #Img {
 	background-color: #fff;
-	width:91.623424759%;
+	width:91.6234247590808006%;
 	height: auto;
 	margin: 4.18828762%;
+  	font-size:0;
 }
 #Img img {
 	width: 97.572815534%;
-	margin: 1.111934766%;
+	margin: 1.2135922330097087%;
+  	vertical-align:top;
 }
 #H {
     background-color: #fff;
 	width: 91.623424759%;
 	height: auto;
-	margin: 4.18828762046%;
-	margin-top: 0;
+	margin: 0 4.18828762046% 0 4.18828762046% ;
 	text-align: center;
 }
 #H h1 {
