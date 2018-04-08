@@ -55,10 +55,11 @@ footer {
 	background-color: #fff;
 	width:91.623424759%;
 	height: auto;
+  	position:relative;
 	margin: 4.18828762%;
 }
 #Img img {
-  	position:relative;
+  	position:absolute;
     transform: translate(-50%,-50%);
   	left:50%;
   	top:50%;
