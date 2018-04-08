@@ -138,7 +138,7 @@ text-align: center;
 	transform: translate(-50%,-50%);
 	top: 20px;
 	left: 50%;
-	font-size: 2em;
+	font-size: calc(1.5vw + 20px);
 }
 #M {
 	position: absolute;
